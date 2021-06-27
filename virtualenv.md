@@ -4,6 +4,7 @@
 
 ```
 pip install virtualenv
+pip3 install virtualenv
 ```
 
 ## การใช้งาน folder ชื่อ backtest
